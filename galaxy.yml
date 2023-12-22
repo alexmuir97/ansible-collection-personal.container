@@ -1,0 +1,25 @@
+---
+version: "1.0.0"
+
+namespace: "personal"
+name: "container"
+description: "Ansible collection for container roles, playbooks and plugins."
+
+authors:
+  - "Alex Muir"
+
+readme: "README.md"
+license_file: "LICENSE"
+
+repository: "https://github.com/alexmuir97/ansible-collection-personal.container"
+documentation: "https://github.com/alexmuir97/ansible-collection-personal.container"
+homepage: "https://github.com/alexmuir97/ansible-collection-personal.container"
+issues: "https://github.com/alexmuir97/ansible-collection-personal.container/issues"
+
+tags:
+  - "linux"
+  - "application"
+
+dependencies: {}
+
+build_ignore: []
